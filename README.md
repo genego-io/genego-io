@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a software developer from the Netherlands, and am currently staying in Thailand. I have a passion for all things tech, and love working on Python & Django projects. 
+
 <!--
 **genego-io/genego-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
