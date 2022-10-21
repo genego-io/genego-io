@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a software developer who really enjoys working on projects with Python & Django
+I'm a software developer who loves to work with Python, Django & HTMX.
+
+I like working on new and interesting things, I see this repository and my [website](https://edwin.genego.io) as a digital garden to cultivate. 
 
 <!--
 **genego-io/genego-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
