@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I'm a software developer who loves to work with Python, Django & HTMX. I also actively work on the [Konfuzio server](https://help.konfuzio.com/modules/index.html) and 
-[Konfuzio SDK](https://github.com/konfuzio-ai/konfuzio-sdk)
+My name is Edwin, I'm software developer who loves to work with Python, Django & HTMX. 
 
-I like working on new and interesting things, I see this repository and my [website](https://edwin.genego.io) as a digital garden to cultivate. 
+I also actively work on the [Konfuzio server](https://help.konfuzio.com/modules/index.html) and [Konfuzio SDK](https://github.com/konfuzio-ai/konfuzio-sdk)
 
 <!--
 **genego-io/genego-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
