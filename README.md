@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer who loves to work with Python, Django & HTMX. I also actively work on the Konfuzio server and SDK
+I'm a software developer who loves to work with Python, Django & HTMX. I also actively work on the [Konfuzio server](https://help.konfuzio.com/modules/index.html) and [SDK]
 
 I like working on new and interesting things, I see this repository and my [website](https://edwin.genego.io) as a digital garden to cultivate. 
 
