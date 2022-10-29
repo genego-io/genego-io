@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-My name is Edwin, I'm software developer who loves to work with [Python](https://github.com/python), [Django](https://github.com/django/django) & [HTMX](https://github.com/bigskysoftware/htmx). 
+My name is Edwin, I'm software developer who loves to work with [Python](https://github.com/python), [Django](https://github.com/django/django) & [HTMX](https://htmx.org/). 
 
 I also actively work on the [Konfuzio server](https://help.konfuzio.com/modules/index.html) and with the [Konfuzio SDK](https://github.com/konfuzio-ai/konfuzio-sdk)
 
