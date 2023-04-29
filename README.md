@@ -4,12 +4,8 @@ My name is Edwin, I am a software developer native in Python and Django, as well
 
 I also actively work on the [Konfuzio server](https://help.konfuzio.com/modules/index.html) and with the [Konfuzio SDK](https://github.com/konfuzio-ai/konfuzio-sdk)
 
-I'm currently most interested in AI, OCR, document processing, building API's, automating systems and figuring out how I can make LLM's do work for me. 
+I'm currently most interested in AI, intelligent document processing (IDP) and figuring out how I can make LLM's do my work for me.
 
-**Things I am currently most interested in:**
-
-1. Langchain
-2. Vector databases
 
 ---
 
