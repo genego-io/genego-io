@@ -1,10 +1,15 @@
 ### Hello, World! 👋
 
-My name is Edwin, I'm software developer who loves to work with [Python](https://github.com/python), [Django](https://github.com/django/django) & [HTMX](https://htmx.org/). 
+My name is Edwin, I am a software developer native in Python and Django, as well as HTML and Javascript. 
 
 I also actively work on the [Konfuzio server](https://help.konfuzio.com/modules/index.html) and with the [Konfuzio SDK](https://github.com/konfuzio-ai/konfuzio-sdk)
 
-I'm currently most interested in AI, OCR, document processing, building API's and automating systems. 
+I'm currently most interested in AI, OCR, document processing, building API's, automating systems and figuring out how I can make LLM's do work for me. 
+
+**Things I am currently most interested in:**
+
+1. Langchain
+2. Vector databases
 
 ---
 
