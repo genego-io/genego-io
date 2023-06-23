@@ -4,7 +4,7 @@ I'm Edwin, a software developer native in Python, Django and React.
 
 Currently I am mostly interested in intelligent document processing, AI and figuring out how to gain an edge in life with LLMs.
 
-
+In my free time I spend a lot of hours experimenting around with tech, martial arts and traveling. 
 
 ---
 
