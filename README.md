@@ -1,8 +1,9 @@
 ### Hello, World! 👋
 
-My name is Edwin, I am a software developer native in Python and Django, as well as HTML and Javascript. 
+I'm Edwin, a software developer native in Python, Django and React. 
 
-I'm currently most interested in AI, intelligent document processing (IDP) and figuring out how to gain an edge with LLMs.
+Currently I am mostly interested in intelligent document processing, AI and figuring out how to gain an edge in life with LLMs.
+
 
 
 ---
