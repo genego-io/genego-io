@@ -1,11 +1,7 @@
 ### Hello, World! 👋
 
 
-I'm a software developer fluent in Python and JavaScript frameworks, I mostly work with Django, React, HTMX and anything related by proxy.
-
-I'm most interested in intelligent document processing with AI, as well as finding my tune together with LLMs.
-
-In my free time I am very involved with martial arts, eating foods and travel.
+I'm a software developer fluent in Python and JavaScript frameworks, I mostly work with Django, React, HTMX and anything related by proxy. I'm most interested in intelligent document processing with AI, as well as finding my tune together with LLMs. In my free time I am very involved with martial arts, eating foods and travel.
 
 ---
 
