@@ -1,10 +1,11 @@
 ### Hello, World! 👋
 
-I'm Edwin, a software developer native in Python, Django and React. 
 
-Currently I am mostly interested in intelligent document processing, AI and figuring out how to gain an edge in life with LLMs.
+I'm a software developer fluent in Python and JavaScript frameworks, I mostly work with Django, React, HTMX and anything related by proxy.
 
-In my free time I spend a lot of hours experimenting around with tech, martial arts and traveling. 
+I'm most interested in intelligent document processing with AI, as well as finding my tune together with LLMs.
+
+In my free time I am very involved with martial arts, eating foods and travel.
 
 ---
 
