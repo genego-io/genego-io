@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-I'm a tech export, and software developer, who mostly works with Django & Python frameworks. 
+I'm a tech expert, and software developer, who mostly works with Django & Python frameworks. 
 
 My main interests currently steers me towards the IDP (intelligent document processing) and AI. 
 
