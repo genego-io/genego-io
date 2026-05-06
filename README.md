@@ -1,6 +1,6 @@
-AI Software Development Agency.
+Independent software development specialist since 2018. 
 
-We build scalable applications with Django.
+I build scalable applications with Django.
 
 - Full-stack web-platform development
 - 3rd Party API integration
@@ -15,4 +15,4 @@ We build scalable applications with Django.
 
 
 
-Are you interested in having something built? Feel free to contact us.
+Are you interested in having something built? Feel free to contact me
