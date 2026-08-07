@@ -12,7 +12,3 @@ I build scalable applications with Django.
 - AI workflow development
 - AI automation development
 - AI tooling, integration & MCP Development
-
-
-
-Are you interested in having something built? Feel free to contact me
